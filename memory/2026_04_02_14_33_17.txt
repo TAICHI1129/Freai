@@ -1,0 +1,2 @@
+[AI THOUGHT]
+bash(ls ./memory)

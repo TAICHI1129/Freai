@@ -1,0 +1,8 @@
+[EXECUTION RESULT]
+[EXECUTION RESULT]
+type : Cannot find path 'C:\Users\s-mtm\Desktop\Freai\memory\2026_04_02_14_28_42.txt' because it does not exist.
+At line:1 char:59
++ ... = [System.Text.Encoding]::UTF8; type ./memory/2026_04_02_14_28_42.txt
++                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\s-mtm\...02_14_28_42.txt:String) [Get-Content], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
